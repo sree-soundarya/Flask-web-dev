@@ -1,0 +1,4 @@
+traceID,timestamp,TML Before Sanitization,TML After Sanitization,Formula Info,dropped/not,tokens dropped
+87f734d6b8ddba66,1735671816615000,[sum [Total Unique Interactions] by [Customer Id]],[sum [Total Unique Interactions] by [Customer Id]],,0,NA
+c5705ac789b596a6,1735669937342000,[top 10 [Product Category] sort by sum [Total Pageviews]],[top 10 [Product Category] sort by sum [Total Pageviews]],,0,NA
+d2dc157e6d33349a,1735669964616000,[sum[Total Unique Interactions] [Customer Id]],[sum [Total Unique Interactions] [Customer Id]],,0,NA
